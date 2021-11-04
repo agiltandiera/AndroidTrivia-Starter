@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/AndroidTrivia-Starter/app/src/main/res/drawable/android_trivia.xml" value="0.1" />
         <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/AndroidTrivia-Starter/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/AndroidTrivia-Starter/app/src/main/res/layout/fragment_about.xml" value="0.1" />
         <entry key="..\:/AndroidStudio/Project/Strarter App - Mobile/android-kotlin-fundamentals-starter-apps-master/AndroidTrivia-Starter/app/src/main/res/layout/fragment_game.xml" value="0.1796875" />
